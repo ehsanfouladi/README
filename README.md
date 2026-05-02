@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ehsan Fouladi</h1>
-<h3 align="center">A passionate full stack developer from Iran</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehsanfouladi&label=Profile%20views&color=0e75b6&style=flat" alt="ehsanfouladi" /> </p>
 
-- 🔭 I’m currently working on [LenoSell](https://lenosell.com)
+- 🔭 I’m currently working on [7sobh](https://7sobh.com)
 
 - 👨‍💻 All of my projects are available at [resume.ehsanfouladi.ir](https://resume.ehsanfouladi.ir)
 
